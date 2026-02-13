@@ -9,9 +9,6 @@ I am a BCA graduate (2025) and currently working as a Computer Teacher, where I 
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaryandhekle30&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryandhekle30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![]([https://www.linkedin.com/in/aryan-dhekle-255780257/])
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
